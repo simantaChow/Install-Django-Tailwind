@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "566541541734dc92",
@@ -148,6 +149,7 @@
   },
   "active": "3c649b41710f2e84",
   "lastOpenFiles": [
+    "Screenshot_1.jpg",
     "Install Django with Tailwind.md"
   ]
 }
