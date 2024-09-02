@@ -136,3 +136,18 @@ python manage.py tailwind start
 
 Go to the http://127.0.0.1:8000/ We will see below picture is everything ok.  if we did not show that then there is some thing wrong
 ![[Screenshot_1.jpg]]
+
+
+Finished..... Now we can develop our project using this template.
+
+Make requirements file. first activate Virtual Environment to make used packages
+
+```cmd
+pip freeze --local > requirements.txt
+```
+
+Install requirements.txt
+
+```
+pip install -r requirements.txt
+```
